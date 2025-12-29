@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>这里写文章标题</title>
+    <link href="/2025/12/29/%E6%88%91%E7%9A%842025%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84/"/>
+    <url>/2025/12/29/%E6%88%91%E7%9A%842025%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84/</url>
+    
+    <content type="html"><![CDATA[<p>这里是正文开始。</p><p>从这里开始正常写你的博客内容…</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>文字</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>随笔</tag>
+      
+      <tag>生活</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/12/29/hello-world/"/>
     <url>/2025/12/29/hello-world/</url>
